@@ -3,9 +3,12 @@
 <p>Draw random numbers in the range 0 and 10.</p>
 
 <h2>Screenshots</h2>
-<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-one.jpg?raw=true" height="400px" width="200px/>
-<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-two.jpg?raw=true" height="400px" width="200px/>
-<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-three.jpg?raw=true" height="400px" width="200px/>
+
+<div>
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-one.jpg?raw=true" width="200px/>
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-two.jpg?raw=true" width="200px/>
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-three.jpg?raw=true"width="200px/>
+</div>
 
 
 <h2>My profile</h2>
