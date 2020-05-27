@@ -4,12 +4,11 @@
 
 <h2>Screenshots</h2>
 
-<div align="center">
-<p><img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-one.jpg?raw=true" width="200px/></p>
-<p><img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-two.jpg?raw=true" width="200px/></p>
-<p><img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-three.jpg?raw=true" width="200px/></p>
+<div align="justify">
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-one.jpg?raw=true" width="200px/>
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-two.jpg?raw=true" width="200px/>
+<img src="https://github.com/diegobpaula/draw-project/blob/master/screenshots/screenshot-three.jpg?raw=true" width="200px/>
 </div>
-
 
 <h2>My profile</h2>
 diego.paula@live.com <br>
